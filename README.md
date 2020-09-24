@@ -8,7 +8,7 @@
 
 
 # Our Final Results
-### *For the Year 2018*
+### *For the Year 2017*
 ##### In the image below, is shown how long it takes for our elapsed run time for all of the stocks for the year 2017. 
 
 
@@ -18,4 +18,6 @@
 
 ![VBAtimer1](https://github.com/mckenziekkilburn/stock-analysis/blob/master/VBAtimer1.PNG)
 
+*Furthermore, this code statement had to be added to the bottom of the Subroutine once all of our syntax was corrected and accurate*
 
+![VBAtimer2](https://github.com/mckenziekkilburn/stock-analysis/blob/master/VBAtimer2.PNG)
